@@ -1,0 +1,1 @@
+{\n  "name": "roblox-executor",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "start": "electron ."\n  },\n  "dependencies": {\n    "electron": "^latest-version",\n    "react": "^latest-version",\n    "react-dom": "^latest-version"\n  },\n  "devDependencies": {\n    "@babel/preset-react": "^latest-version"\n  }\n}
